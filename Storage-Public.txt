@@ -5,5 +5,4 @@ Storage:
 
 -> Code Bahasa Pemrograman:
   - Python
-  - C#
   - Java
