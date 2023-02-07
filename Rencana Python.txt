@@ -1,3 +1,5 @@
 1. print
 2. operasi matematika
 3. logika kondisi
+4. for loop
+5. OOP
